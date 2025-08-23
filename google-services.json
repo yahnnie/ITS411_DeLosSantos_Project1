@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59199704117",
+    "project_id": "its411-delossantosproject1",
+    "storage_bucket": "its411-delossantosproject1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59199704117:android:4b938e3ad353ad8dfc757c",
+        "android_client_info": {
+          "package_name": "com.dianne.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_xMH1hYgeQ-mcnp50Pb742FxIexcXp8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

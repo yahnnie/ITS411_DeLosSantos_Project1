@@ -21,6 +21,7 @@ export default function ToDoScreen() {
     const addTask = () => {
         const trimmedTask = userInput.trim();
         if (trimmedTask !== '') {
+            
             setTasks([...tasks, trimmedTask]);
             setUserInput('');
         }
